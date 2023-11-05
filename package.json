@@ -89,7 +89,7 @@
     "stylelint-config-standard-scss": "^4.0.0"
   },
   "otherDependencies": {
-    "hugo": "0.119.0"
+    "hugo": "0.114.0"
   },
   "husky": {
     "hooks": {
